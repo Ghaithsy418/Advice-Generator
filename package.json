@@ -1,0 +1,11 @@
+{
+  "name": "advice-generator",
+  "version": "1.0.0",
+  "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
+  "main": "scipt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GhaithShabakji",
+  "license": "ISC"
+}
